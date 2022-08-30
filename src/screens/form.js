@@ -63,7 +63,7 @@ const style = StyleSheet.create({
     color: '#FFF',
     fontWeight: 'bold',
     borderRadius: 5,
-    textAlign: 'center',
+    textAlign: 'center'
   }
 
 })
